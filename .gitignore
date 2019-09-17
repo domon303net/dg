@@ -1,0 +1,11 @@
+# virtualenv
+/venv/
+
+# demo
+/demo/
+
+
+
+/.idea/
+
+__pycache__
